@@ -17,3 +17,9 @@ go version go1.16 windows/amd64
 
 
 
+## 참고사이트
+
+[기초문법](https://gyurious.tistory.com/42)
+
+[Package 관리 및 선언](https://brownbears.tistory.com/479)
+
